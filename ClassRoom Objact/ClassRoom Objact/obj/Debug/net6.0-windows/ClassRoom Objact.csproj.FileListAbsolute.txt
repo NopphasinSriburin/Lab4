@@ -1,0 +1,17 @@
+C:\Users\nappa\Desktop\ClassRoom Objact\ClassRoom Objact\bin\Debug\net6.0-windows\ClassRoom Objact.exe
+C:\Users\nappa\Desktop\ClassRoom Objact\ClassRoom Objact\bin\Debug\net6.0-windows\ClassRoom Objact.deps.json
+C:\Users\nappa\Desktop\ClassRoom Objact\ClassRoom Objact\bin\Debug\net6.0-windows\ClassRoom Objact.runtimeconfig.json
+C:\Users\nappa\Desktop\ClassRoom Objact\ClassRoom Objact\bin\Debug\net6.0-windows\ClassRoom Objact.dll
+C:\Users\nappa\Desktop\ClassRoom Objact\ClassRoom Objact\bin\Debug\net6.0-windows\ClassRoom Objact.pdb
+C:\Users\nappa\Desktop\ClassRoom Objact\ClassRoom Objact\obj\Debug\net6.0-windows\ClassRoom Objact.csproj.AssemblyReference.cache
+C:\Users\nappa\Desktop\ClassRoom Objact\ClassRoom Objact\obj\Debug\net6.0-windows\ClassRoom_Objact.Form1.resources
+C:\Users\nappa\Desktop\ClassRoom Objact\ClassRoom Objact\obj\Debug\net6.0-windows\ClassRoom Objact.csproj.GenerateResource.cache
+C:\Users\nappa\Desktop\ClassRoom Objact\ClassRoom Objact\obj\Debug\net6.0-windows\ClassRoom Objact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nappa\Desktop\ClassRoom Objact\ClassRoom Objact\obj\Debug\net6.0-windows\ClassRoom Objact.AssemblyInfoInputs.cache
+C:\Users\nappa\Desktop\ClassRoom Objact\ClassRoom Objact\obj\Debug\net6.0-windows\ClassRoom Objact.AssemblyInfo.cs
+C:\Users\nappa\Desktop\ClassRoom Objact\ClassRoom Objact\obj\Debug\net6.0-windows\ClassRoom Objact.csproj.CoreCompileInputs.cache
+C:\Users\nappa\Desktop\ClassRoom Objact\ClassRoom Objact\obj\Debug\net6.0-windows\ClassRoom Objact.dll
+C:\Users\nappa\Desktop\ClassRoom Objact\ClassRoom Objact\obj\Debug\net6.0-windows\refint\ClassRoom Objact.dll
+C:\Users\nappa\Desktop\ClassRoom Objact\ClassRoom Objact\obj\Debug\net6.0-windows\ClassRoom Objact.pdb
+C:\Users\nappa\Desktop\ClassRoom Objact\ClassRoom Objact\obj\Debug\net6.0-windows\ClassRoom Objact.genruntimeconfig.cache
+C:\Users\nappa\Desktop\ClassRoom Objact\ClassRoom Objact\obj\Debug\net6.0-windows\ref\ClassRoom Objact.dll
